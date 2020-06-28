@@ -31,7 +31,8 @@ The following components are also needed:
 Connect FireTV_TX$ to a TCP/IP Client
   Port: 9093d
 
-
+Use your glt client to clone this archive, or simply click here to download:
+https://github.com/tony722/Crestron-AmazonFireTV-IRUSB/archive/master.zip
 
 For (paid) support on your installation or custom modifications to this driver, you may contact me via my website:
 http://www.iconsultants.net
