@@ -32,7 +32,7 @@ https://www.video-storm.com/proddetail.php?prod=IRUSB
   Port: 9093d
 
 ## Download
-Use your glt client to clone this archive, or simply [click here to download](https://github.com/tony722/Crestron-AmazonFireTV-IRUSB/archive/master.zip).
+Use your glt client to clone this repository, or simply [click here to download](https://github.com/tony722/Crestron-AmazonFireTV-IRUSB/archive/master.zip).
 
 ## Support
 For (paid) support on your installation or custom modifications to this driver, you may contact me via my website:
